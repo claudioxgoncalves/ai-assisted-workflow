@@ -72,10 +72,10 @@ The four CG1015 variations produced in this session are available for inspection
 
 | File                                     | Variant               |
 |------------------------------------------|-----------------------|
-| [CG1015XN.RPGLE](example/CG1015XN.RPGLE) | Fixed + Native (base) |
-| [CG1015FN.RPGLE](example/CG1015FN.RPGLE) | Free + Native         |
-| [CG1015XQ.RPGLE](example/CG1015XQ.RPGLE) | Fixed + SQL           |
-| [CG1015FQ.RPGLE](example/CG1015FQ.RPGLE) | Free + SQL            |
+| [CG1015XN.RPGLE](example/CG1015XN.rpgle) | Fixed + Native (base) |
+| [CG1015FN.RPGLE](example/CG1015FN.rpgle) | Free + Native         |
+| [CG1015XQ.RPGLE](example/CG1015XQ.rpgle) | Fixed + SQL           |
+| [CG1015FQ.RPGLE](example/CG1015FQ.rpgle) | Free + SQL            |
 
 ### Prompt 2 — Check Variation Consistency
 
