@@ -139,6 +139,7 @@ The AI never guesses. Every decision it makes is traceable to a specific documen
 ---
 
 📧 claudioxyzgoncalves@gmail.com
+
 📍 Madeira, Portugal
 
 ---
